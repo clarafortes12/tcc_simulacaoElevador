@@ -1,0 +1,104 @@
+
+                                      ARENA Simulation Results
+                            maria.clara.of@hotmail.com - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :12/11/2023
+Analista: maria.clara.of@hotmail.com                                  Data de revisão do modelo:12/11/2023
+
+Replicação terminada no tempo de      : 0.475 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Elevador.VATime                                 --         --         --         --          0
+Elevador.NVATime                                --         --         --         --          0
+Elevador.WaitTime                               --         --         --         --          0
+Elevador.TranTime                               --         --         --         --          0
+Elevador.OtherTime                              --         --         --         --          0
+Elevador.TotalTime                              --         --         --         --          0
+pessoa.VATime                               .00000     (Insuf)    .00000     .00000         59    
+pessoa.NVATime                              .00000     (Insuf)    .00000     .00000         59    
+pessoa.WaitTime                             .10697     (Insuf)    .00556     .28889         59    
+pessoa.TranTime                             .00000     (Insuf)    .00000     .00000         59    
+pessoa.OtherTime                            .01271     (Insuf)    .00556     .04444         59    
+pessoa.TotalTime                            .11968     (Insuf)    .01111     .31111         59    
+Pessoa Esperando Elevador 1 Andar 1.Queue.  .02188     (Insuf)    .00000     .05556         16    
+Pessoa Esperando Elevador 1 Andar 2.Queue.      --         --         --         --          0
+Pessoa Esperando Elevador 1 Andar 3.Queue.  .00556     (Insuf)    .00556     .00556          1    
+Pessoa Esperando Elevador 1 Andar 4.Queue.      --         --         --         --          0
+Pessoa Esperando Elevador 1 Andar 5.Queue.      --         --         --         --          0
+Pessoa Esperando Elevador 1 Andar 6.Queue.      --         --         --         --          0
+Pessoa Esperando Elevador 2 Andar 1.Queue.  .13824     (Insuf)    .00000     .28333         34    
+Pessoa Esperando Elevador 2 Andar 2.Queue.  .02778     (Insuf)    .02778     .02778          2    
+Pessoa Esperando Elevador 2 Andar 3.Queue.  .03889     (Insuf)    .03889     .03889          1    
+Pessoa Esperando Elevador 2 Andar 4.Queue.      --         --         --         --          0
+Pessoa Esperando Elevador 2 Andar 5.Queue.  .03519     (Insuf)    .00000     .05556          3    
+Pessoa Esperando Elevador 2 Andar 6.Queue.  .04444     (Insuf)    .02222     .06667          2    
+No Elevador 1.WaitingTime                   .01732     (Insuf)    .00556     .03333         17    
+No Elevador 2.WaitingTime                   .01601     (Insuf)    .00556     .03333         42    
+Elevador 1 Andar 6 Parado.WaitingTime           --         --         --         --          0
+Elevador 1 Andar 5 Parado.WaitingTime           --         --         --         --          0
+Elevador 1 Andar 4 Parado.WaitingTime           --         --         --         --          0
+Elevador 1 Andar 3 Parado.WaitingTime           --         --         --         --          0
+Elevador 1 Andar 2 Parado.WaitingTime           --         --         --         --          0
+Elevador 1 Andar 1 Parado.WaitingTime       .00833     (Insuf)    .00833     .00833          1    
+Elevador 2 Andar 6 Parado.WaitingTime           --         --         --         --          0
+Elevador 2 Andar 5 Parado.WaitingTime           --         --         --         --          0
+Elevador 2 Andar 4 Parado.WaitingTime       .01667     (Insuf)    .01667     .01667          1    
+Elevador 2 Andar 3 Parado.WaitingTime           --         --         --         --          0
+Elevador 2 Andar 2 Parado.WaitingTime           --         --         --         --          0
+Elevador 2 Andar 1 Parado.WaitingTime       .02472     (Insuf)    .02472     .02472          1    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Elevador.WIP                                1.9994     (Insuf)    .00000     2.0000     2.0000    
+pessoa.WIP                                  15.532     (Insuf)    .00000     39.000     1.0000    
+Pessoa Esperando Elevador 1 Andar 1.Queue.  .73684     (Insuf)    .00000     6.0000     .00000    
+Pessoa Esperando Elevador 1 Andar 2.Queue.  .00000     (Insuf)    .00000     .00000     .00000    
+Pessoa Esperando Elevador 1 Andar 3.Queue.  .67836     (Insuf)    .00000     2.0000     1.0000    
+Pessoa Esperando Elevador 1 Andar 4.Queue.  .00000     (Insuf)    .00000     .00000     .00000    
+Pessoa Esperando Elevador 1 Andar 5.Queue.  .00000     (Insuf)    .00000     .00000     .00000    
+Pessoa Esperando Elevador 1 Andar 6.Queue.  .00000     (Insuf)    .00000     .00000     .00000    
+Pessoa Esperando Elevador 2 Andar 1.Queue.  9.8947     (Insuf)    .00000     28.000     .00000    
+Pessoa Esperando Elevador 2 Andar 2.Queue.  .11696     (Insuf)    .00000     1.0000     .00000    
+Pessoa Esperando Elevador 2 Andar 3.Queue.  .08187     (Insuf)    .00000     1.0000     .00000    
+Pessoa Esperando Elevador 2 Andar 4.Queue.  .00000     (Insuf)    .00000     .00000     .00000    
+Pessoa Esperando Elevador 2 Andar 5.Queue.  .22222     (Insuf)    .00000     2.0000     .00000    
+Pessoa Esperando Elevador 2 Andar 6.Queue.  .18713     (Insuf)    .00000     1.0000     .00000    
+No Elevador 1.NumberInQueue                 .61988     (Insuf)    .00000     6.0000     .00000    
+No Elevador 2.NumberInQueue                 1.4152     (Insuf)    .00000     6.0000     .00000    
+Elevador 1 Andar 6 Parado.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Elevador 1 Andar 5 Parado.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Elevador 1 Andar 4 Parado.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Elevador 1 Andar 3 Parado.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Elevador 1 Andar 2 Parado.NumberInQueue     .61988     (Insuf)    .00000     1.0000     1.0000    
+Elevador 1 Andar 1 Parado.NumberInQueue     .01754     (Insuf)    .00000     1.0000     .00000    
+Elevador 2 Andar 6 Parado.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Elevador 2 Andar 5 Parado.NumberInQueue     .00000     (Insuf)    .00000     1.0000     1.0000    
+Elevador 2 Andar 4 Parado.NumberInQueue     .03509     (Insuf)    .00000     1.0000     .00000    
+Elevador 2 Andar 3 Parado.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Elevador 2 Andar 2 Parado.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+Elevador 2 Andar 1 Parado.NumberInQueue     .05205     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Elevador.NumberIn                           2.0000    
+Elevador.NumberOut                          .00000    
+pessoa.NumberIn                             60.000    
+pessoa.NumberOut                            59.000    
+System.NumberOut                            59.000    
+
+
+Tempo executando a simulação: 0.65 minutos.
+Simulação completada.
